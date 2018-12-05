@@ -25,6 +25,8 @@ public class FileHash {
 
 		
 		System.out.println("md = " + Utils.toHexString(out));
+		
+		//modification
 
 	}
 
