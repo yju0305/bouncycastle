@@ -27,7 +27,7 @@ public class DigestTest  {
 		System.out.println("md  = " + Utils.toHexString(out));
 		System.out.println("md  = " + Utils.toHexString(out1));
 		
-
+		// modification
 		
 	}
 
